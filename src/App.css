@@ -1,0 +1,7 @@
+.App [class="x axis"] text{
+  transform: rotate(-90deg);
+  opacity: 0;
+}
+
+.App svg {
+}
